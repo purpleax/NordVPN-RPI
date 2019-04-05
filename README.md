@@ -1,6 +1,8 @@
 # NordVPN-RPI
 Setup NordVPN on Raspberry Pi
 
+Original: https://pimylifeup.com/raspberry-pi-nordvpn/
+
 
 Setting up NordVPN on the Raspberry Pi
 
